@@ -9,6 +9,8 @@ public class Coche extends Vehiculo {
 
 	private int puertas;
 	
+	// esto es una prueba
+	
 	
 	public void setPuertas(int puertas) {
 		this.puertas = puertas;		
