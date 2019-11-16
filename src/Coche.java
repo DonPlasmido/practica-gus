@@ -11,6 +11,8 @@ public class Coche extends Vehiculo {
 	
 	// esto es una prueba
 	
+	// esta modificacion es en la rama nueva
+	
 	
 	public void setPuertas(int puertas) {
 		this.puertas = puertas;		
